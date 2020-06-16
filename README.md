@@ -4,8 +4,8 @@ This project contains all functions that creates synthetic popultion in NY, NJ, 
 
 |      Type     |     Dataset   | Source |
 | ------------- | ------------- | ------------ |
-| Raod Network | 2010 U.S. Census TIGER Shape files  | https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Roads |
-|  Population  | 2010 U.S. Census tracts  | https://www.census.gov/programs-surveys/geography.html |
+| Raod Network | 2010 U.S. Census TIGER Shapefiles  | https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Roads |
+|  Population  | 2010 U.S. Census Tracts  | https://www.census.gov/programs-surveys/geography.html |
 |  Education   |US Environmental Protection Agency (EPA) Office of Environmental Information (OEI) | https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B9C49AE4B-F175-43D0-BCC6-A928FF54C329%7D |
 |  Workplace   |2010 U.S. Census Bureau’s County Business Patterns | https://lehd.ces.census.gov/data/lodes/LODES7/ |
 
