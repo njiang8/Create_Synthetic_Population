@@ -11,8 +11,9 @@ This project contains all functions that creates synthetic popultion in NY, NJ, 
 
 
 Our method includes the following steps:
+* [Step 0](https://nbviewer.jupyter.org/gist/oztalha/a1c167f3879c5b95f721acef791c8111#Preprocessing). Data preprocessing
 * [Step 1](https://github.com/njiang8/Create_Synthetic_Population/blob/master/1_Creat_Individuals.ipynb).	Generating workplaces, individual agents organized into households and place workplaces and  individuals on the cleaned road lines. 
-* Step 2.	Assigning individual agents to their daytime locations including work, school and daycare
-* Step 3.  Assigning unique Road ID (extracted from road line) to individual agents, work loactions, school and daycare.
-* Step 4.	Creating individual networks representing group membership in a family or other household type and either a work or school
+* [Step 2](https://github.com/njiang8/Create_Synthetic_Population/blob/master/2_Assign_Kids_School_Daycare_Unique_IDs.ipynb).	Assigning individual agents to their daytime locations including work, school and daycare
+* [Step 3](https://github.com/njiang8/Create_Synthetic_Population/blob/master/3_Assign%20RID.ipynb).  Assigning unique Road ID (extracted from road line) to individual agents, work loactions, school and daycare.
+* [Step 4](https://github.com/njiang8/Create_Synthetic_Population/blob/master/4_Create_Networks.ipynb).	Creating individual networks representing group membership in a family or other household type and either a work or school
 
