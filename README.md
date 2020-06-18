@@ -17,3 +17,4 @@ Our method includes the following steps:
 * [Step 3](https://github.com/njiang8/Create_Synthetic_Population/blob/master/3_Assign%20RID.ipynb).  Assigning unique Road ID (extracted from road line) to individual agents, work loactions, school and daycare.
 * [Step 4](https://github.com/njiang8/Create_Synthetic_Population/blob/master/4_Create_Networks.ipynb).	Creating individual networks representing group membership in a family or other household type and either a work or school
 
+This project is supported by the Center for Social Complexity at George Mason University and the Defense Threat Reduction Agency (DTRA) under Grant number HDTRA1-16-0043. The opinions, findings, conclusions or recommendations expressed in this work are those of the researchers and do not necessarily reflect the views of the sponsors.
