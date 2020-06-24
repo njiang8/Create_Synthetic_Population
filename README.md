@@ -1,4 +1,4 @@
-# Create_Synthetic_Population
+# Create Synthetic Population
 
 This project contains all functions that creates synthetic popultion in NY, NJ, CT and PA area. Our methods use open-source data to generate the synthetic popultion as the table shown below.
 
