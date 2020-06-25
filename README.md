@@ -3,7 +3,7 @@
 This project contains all functions that create synthetic population in NY, NJ, CT, and PA areas (as the figure shown). 
 <p align="center">
   
-  <img width="460" height="300" src="https://github.com/njiang8/Create_Synthetic_Population/blob/master/Study_Area.png">
+  <img  src="https://github.com/njiang8/Create_Synthetic_Population/blob/master/Study_Area.png">
 
  </p>
 
