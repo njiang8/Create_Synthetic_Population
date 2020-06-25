@@ -2,7 +2,9 @@
 
 This project contains all functions that create synthetic population in NY, NJ, CT, and PA areas (as the figure shown). 
 <p align="center">
-  ![In a single picture](https://github.com/njiang8/Create_Synthetic_Population/blob/master/Study_Area.png)
+  
+  <img width="460" height="300" src="https://github.com/njiang8/Create_Synthetic_Population/blob/master/Study_Area.png">
+
  </p>
 
 Our methods use open-source data to generate synthetic population as the table shown below. If the following links are no longer valid, the data can be found in https://osf.io/3vsaj/
