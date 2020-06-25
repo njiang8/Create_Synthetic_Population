@@ -1,6 +1,9 @@
 # Create Synthetic Population
 
-This project contains all functions that create synthetic population in NY, NJ, CT, and PA areas. Our methods use open-source data to generate synthetic population as the table shown below. If the following links are no longer valid, the data can be found in https://osf.io/3vsaj/
+This project contains all functions that create synthetic population in NY, NJ, CT, and PA areas (as the figure shown). 
+![In a single picture](https://github.com/njiang8/Create_Synthetic_Population/blob/master/Study_Area.png)
+
+Our methods use open-source data to generate synthetic population as the table shown below. If the following links are no longer valid, the data can be found in https://osf.io/3vsaj/
 
 |      Type     |     Dataset   | Source |
 | ------------- | ------------- | ------------ |
