@@ -7,7 +7,7 @@ This project contains all functions that create synthetic population in NY, NJ, 
 
  </p>
 
-Our methods use open-source data to generate synthetic population as the table shown below. If the following links are no longer valid, the data can be found in https://osf.io/3vsaj/
+Our methods use open-source data as the input to generate synthetic population as the table shown below. If the following links are no longer valid, the data can be found in https://osf.io/3vsaj/ under the input folder. The results files can be found under the output folder.
 
 |      Type     |     Dataset   | Source |
 | ------------- | ------------- | ------------ |
